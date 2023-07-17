@@ -4,7 +4,7 @@
     <item
             android:id="@+id/NavBar1"
             android:icon="@drawable/icon_ensiklopedia"
-            android:title="Ensiklopedia"
+            android:title="Encyclopedia"
             android:fontFamily = "@font/poppins_regular"
             app:cnb_iconColor="#FFA500"
             />

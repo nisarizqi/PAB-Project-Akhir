@@ -24,7 +24,7 @@ class MainQuizActivity : AppCompatActivity() {
         setContentView(R.layout.activity_mainquiz)
 
         recyclerView = findViewById(R.id.level_rv)
-        recyclerView.setHasFixedSize(true)
+//        recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager = LinearLayoutManager(this)
 
         levelList = ArrayList()
