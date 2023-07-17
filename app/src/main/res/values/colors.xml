@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="background_2">#6A5ACD</color>
+    <color name="background_1">#4B3EAA</color>
+    <color name="subtext">#B8AEE4</color>
+    <color name="accent">#FF8C00</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF019786</color>
+    <color name="lavender">#8692f7</color>
+    <color name="grey">#E6E6E6</color>
+    <color name="blue">#03A9F4</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="quiz_bg1">#316BA9</color>
+    <color name="quiz_bg2">#4682B4</color>
+    <color name="quiz_text">#FFFFFF</color>
+    <color name="quiz_subtext">#A8C8E4</color>
+    <color name="quiz_accent">#FFA500</color>
+    <color name="primary">#333366</color>
+    <color name="secondary">#5C5493</color>
+    <color name="bg_menu">#1D1D39</color>
+
+</resources>
